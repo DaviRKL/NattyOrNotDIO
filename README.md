@@ -1,5 +1,4 @@
 # NattyOrNotDIO
-Desafio da DIO
 Este repositório foi criado para o desafio proposto no bootcamp Python AI Backend Developer da DIO. O objetivo do desafio era criar algo utilizando IAs generativas.
 
 ## Descrição 
